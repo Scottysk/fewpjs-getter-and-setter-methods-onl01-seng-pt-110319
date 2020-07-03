@@ -4,11 +4,11 @@ class circle {
   }
   
   get diameter() {
-    return this.radius * 2
+    this.radius = diameter * 2;
   }
   
   get circumference() {
-    
+    this.radius = circumference
   }
   
   
